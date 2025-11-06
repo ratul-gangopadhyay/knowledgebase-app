@@ -1,4 +1,4 @@
-# Next Knowledgebase
+# Knowledgebase
 
 A simple Knowledgebase Creator app built with Next.js (App Router), JSON Server as a mock backend, and Tailwind CSS.
 
