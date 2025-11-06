@@ -32,7 +32,3 @@ To run both concurrently:
 ```bash
 npm run dev:all
 ```
-
-## Notes
-- Replace `next`/`react` versions in `package.json` if needed.
-- This repo is ready to be pushed to GitHub.
