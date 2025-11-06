@@ -1,0 +1,109 @@
+{
+  "knowledge": [
+    {
+      "id": 1,
+      "title": "How to set up JSON Server",
+      "author": "Admin",
+      "dateCreated": "2025-11-06",
+      "description": "Quick guide to run json-server for local REST API mocking."
+    },
+    {
+      "id": 2,
+      "title": "Getting started with Next.js 14",
+      "author": "Alex",
+      "dateCreated": "2025-11-05",
+      "description": "Notes on new App Router patterns, server components, and migration tips from pages-router."
+    },
+    {
+      "id": 3,
+      "title": "Styling with Tailwind CSS",
+      "author": "Rina",
+      "dateCreated": "2025-10-28",
+      "description": "Practical tips for using utility classes, configuration, and optimizing build size with PurgeCSS."
+    },
+    {
+      "id": 4,
+      "title": "Accessible forms in React",
+      "author": "Sam",
+      "dateCreated": "2025-09-14",
+      "description": "Labels, aria attributes, keyboard navigation, and error messaging patterns for inclusive forms."
+    },
+    {
+      "id": 5,
+      "title": "Using json-server for prototyping APIs",
+      "author": "Jordan",
+      "dateCreated": "2025-08-20",
+      "description": "How to fake endpoints, add relationships, and use routes.json for custom routes when prototyping."
+    },
+    {
+      "id": 6,
+      "title": "Client-side caching strategies",
+      "author": "Priya",
+      "dateCreated": "2025-07-03",
+      "description": "When to use cache-control, SWR/React Query, and how to invalidate caches after mutations."
+    },
+    {
+      "id": 7,
+      "title": "SEO basics for single-page apps",
+      "author": "Marta",
+      "dateCreated": "2025-06-12",
+      "description": "Metadata, server rendering, structured data, and practical checks to ensure crawlability." 
+    },
+    {
+      "id": 8,
+      "title": "Performance tuning: images and fonts",
+      "author": "Drew",
+      "dateCreated": "2025-05-22",
+      "description": "Optimizing images, using modern formats (AVIF/WebP), preloading fonts and prioritizing critical content."
+    },
+    {
+      "id": 9,
+      "title": "Testing React components",
+      "author": "Lina",
+      "dateCreated": "2025-04-18",
+      "description": "Unit vs integration tests, React Testing Library examples, and tips for reliable test suites."
+    },
+    {
+      "id": 10,
+      "title": "Debugging Next.js in production",
+      "author": "Owen",
+      "dateCreated": "2025-03-30",
+      "description": "Collecting logs, mapping stack traces, and safe ways to reproduce and patch production issues."
+    },
+    {
+      "id": 11,
+      "title": "Secure headers and CSP",
+      "author": "Noemi",
+      "dateCreated": "2025-02-11",
+      "description": "Setting Content-Security-Policy, HSTS, and other headers to harden web apps against common attacks."
+    },
+    {
+      "id": 12,
+      "title": "Progressive enhancement techniques",
+      "author": "Kai",
+      "dateCreated": "2025-01-05",
+      "description": "Building experiences that work with and without JavaScript, and graceful enhancement patterns."
+    },
+    {
+      "id": 13,
+      "title": "CI/CD for frontend apps",
+      "author": "Aisha",
+      "dateCreated": "2024-12-19",
+      "description": "A simple pipeline for linting, testing, building and deploying static and server-rendered frontends."
+    },
+    {
+      "id": 14,
+      "title": "Building resilient forms with validation",
+      "author": "Ratul",
+      "dateCreated": "2024-11-02",
+      "description": "Client and server validation patterns, avoiding duplicate submissions, and showing inline errors."
+    },
+    {
+      "id": 15,
+      "title": "Debugging network issues locally",
+      "author": "Kai",
+      "dateCreated": "2024-10-01",
+      "description": "Using browser devtools, curl, and local proxies to diagnose CORS, caching, and network failures."
+    }
+  ]
+}
